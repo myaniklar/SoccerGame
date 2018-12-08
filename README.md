@@ -1,3 +1,3 @@
 # SoccerGame
 BasicGameEngine
-İnheritance and virtual functions are used
+Inheritance and virtual functions are used
